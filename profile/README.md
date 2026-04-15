@@ -9,10 +9,15 @@ Das Projekt besteht aus zwei Quarkus-Microservices, die sich gegenseitig Nachric
 
 fhnw-devops/
 ├── [Connecting-Worlds](https://github.com/fhnw-devops/Connecting-Worlds)/ ← Orchestrierungs-Service (Balancer)
+
 ├── [service-henz](https://github.com/fhnw-devops/service-henz)/ ← Chatbot-Microservice (OpenAI / LangChain4j)
+
 ├── [gitlab-components](https://github.com/fhnw-devops/gitlab-components)/ ← Wiederverwendbare GitLab CI/CD-Templates
+
 ├── [helm-resources](https://github.com/fhnw-devops/helm-resources)/ ← Kubernetes Helm Chart (Azure AKS)
+
 ├── [k8s-resources](https://github.com/fhnw-devops/k8s-resources)/ ← Raw Kubernetes Manifeste
+
 └── [renovate](https://github.com/fhnw-devops/renovate)/ ← Renovate Bot Konfiguration
 
 ---
